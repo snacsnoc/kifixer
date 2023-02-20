@@ -10,5 +10,7 @@ This also removes:
 # How to Add to Chrome
 
 Clone this repo
+
 Go to `chrome://extensions`
-Click `Load unpacked` and choose the repo folder
+
+Click `Load unpacked` and choose the `src/` folder in this repo
