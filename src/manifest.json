@@ -1,7 +1,7 @@
 {
 "manifest_version": 3,
 "name": "kifixer",
-"version": "1.0",
+"version": "0.1.0",
 "description": "Remove third-party and sponsored content advertisements from Kijiji.ca",
 "homepage_url": "http://github.com/snacsnoc/kifixer",
 "permissions": [
@@ -17,6 +17,6 @@
     "16": "images/icon.png",
     "32": "images/icon.png",
     "48": "images/icon.png",
-    "128":"images/icon.png"
+    "128":"images/icon-128.png"
    }
 }
